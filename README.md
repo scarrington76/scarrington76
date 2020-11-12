@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋 my name is Scott Carrington
 
-<!--
-**scarrington76/scarrington76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full Stack Developer, Stay at Home Father (COVID times!), HomeBrewer, Stock/Option Trader and Woodworker.
 
-Here are some ideas to get you started:
+I'm currently looking for full stack or backend roles on a team that creates products to improve human lives. I have a passion for creating opportunities for others and bettering our society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Zoom-type project with Orbex Labs
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on quant trading ideas, fantasy sports startups, opensource civil projects, or any other misc startup ideas!
+- 🤔 I’m looking for help with tiling a bathroom
+- 💬 Ask me about SimplyWallSt
+- 📫 How to reach me: scarrington@gmail.com
+- 😄 Pronouns: He, Him, Funny Guy, That Dude
+- ⚡ Fun facts: I've sang into the microphone at Red Rocks, I played international basketball, and I own land in Moldova
