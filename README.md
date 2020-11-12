@@ -1,4 +1,4 @@
-Hi there 👋 my name is Scott Carrington
+Hi there my name is Scott Carrington 👋
 
 I'm a full Stack Developer, Stay at Home Father (COVID times!), HomeBrewer, Stock/Option Trader and Woodworker.
 
@@ -12,3 +12,6 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 - 📫 How to reach me: scarrington@gmail.com
 - 😄 Pronouns: He, Him, Funny Guy, That Dude
 - ⚡ Fun facts: I've sang into the microphone at Red Rocks, I played international basketball, and I own land in Moldova
+
+Technology Stack:
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
