@@ -26,3 +26,5 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 <b>Contact: </b>
 
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scarrington76&repo=github-readme-stats)](https://github.com/scarrington76/github-readme-stats)
