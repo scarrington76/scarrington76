@@ -1,6 +1,6 @@
-Hi there my name is Scott Carrington 👋
+<b>Hi there my name is Scott Carrington 👋
 
-I'm a full Stack Developer, Stay at Home Father (COVID times!), HomeBrewer, Stock/Option Trader and Woodworker.
+I'm a full Stack Developer, Stay at Home Father (COVID times!), HomeBrewer, Stock/Option Trader and Woodworker. </b>
 
 I'm currently looking for full stack or backend roles on a team that creates products to improve human lives. I have a passion for creating opportunities for others and bettering our society.
 
@@ -13,6 +13,11 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 - 😄 Pronouns: He, Him, Funny Guy, That Dude
 - ⚡ Fun facts: I've sang into the microphone at Red Rocks, I played international basketball, and I own land in Moldova
 
-Technology Stack:
+<b>Technology Stack:</b>
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+
+<b>Websites: </b>
+
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
