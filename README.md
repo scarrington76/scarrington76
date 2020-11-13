@@ -9,8 +9,6 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 - 👯 I’m looking to collaborate on quant trading ideas, fantasy sports startups, opensource civil projects, or any other misc startup ideas!
 - 🤔 I’m looking for help with tiling a bathroom
 - 💬 Ask me about SimplyWallSt
-- 📫 How to reach me: scarrington@gmail.com
-- 😄 Pronouns: He, Him, Funny Guy, That Dude
 - ⚡ Fun facts: I've sang into the microphone at Red Rocks, I played international basketball, and I own land in Moldova
 
 <b>Technology Stack:</b>
