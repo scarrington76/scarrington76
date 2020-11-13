@@ -24,10 +24,12 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 
 <b>Websites: </b>
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/scarrington76/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://stackoverflow.com/users/11217056/bondra76?tab=profile"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
 
 
 <b>Contact: </b>
 
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:scarrington@gmail.com">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
