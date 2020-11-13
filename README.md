@@ -17,6 +17,8 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=scarrington76)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <b>Websites: </b>
 
@@ -26,5 +28,3 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 <b>Contact: </b>
 
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scarrington76&repo=github-readme-stats)](https://github.com/scarrington76/github-readme-stats)
