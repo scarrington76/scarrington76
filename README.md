@@ -4,8 +4,8 @@ I'm a full Stack Developer, Stay at Home Father (COVID times!), HomeBrewer, Stoc
 
 I'm currently looking for full stack or backend roles on a team that creates products to improve human lives. I have a passion for creating opportunities for others and bettering our society.
 
-- 🔭 I’m currently working on a Zoom-type project with Orbex Labs
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently seeking a remote backend engineering role
+- 🌱 I’m currently grinding leetcode problems
 - 👯 I’m looking to collaborate on quant trading ideas, fantasy sports startups, opensource civil projects, or any other misc startup ideas!
 - 🤔 I’m looking for help with tiling a bathroom
 - 💬 Ask me about SimplyWallSt
