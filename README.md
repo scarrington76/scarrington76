@@ -13,7 +13,7 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 
 <b>Technology Stack:</b>
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white"/>  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarrington76&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
