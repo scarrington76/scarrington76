@@ -11,7 +11,7 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 - 💬 Ask me about SimplyWallSt
 - ⚡ Fun facts: I've sang into the microphone at Red Rocks, I played international basketball, and I own land in Moldova
 
-<b>Technology Stack:</b>
+<b>Preferred Technology Stack:</b>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
