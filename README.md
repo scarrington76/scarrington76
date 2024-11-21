@@ -1,6 +1,6 @@
 <b>Hi there my name is Scott Carrington 👋
 
-I'm a full Stack Developer, Stay at Home Father (COVID times!), HomeBrewer, Stock/Option Trader and Woodworker. </b>
+I'm a full Stack Developer, Stock/Option Trader and Woodworker. </b>
 
 I'm currently looking for full stack or backend roles on a team that creates products to improve human lives. I have a passion for creating opportunities for others and bettering our society.
 
