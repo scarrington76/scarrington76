@@ -4,7 +4,7 @@ I'm a full Stack Developer, Stock/Option Trader and Woodworker. </b>
 
 I'm always on the lookout to join teams or projects that creates software to improve human lives. I have a passion for creating opportunities for others and bettering our society.
 
-- 🔭 I’m currently working on the 2026 edition of the Journey Serve app. For more information see https://journeycolorado.com/ and if you'd like to help out on the app, please contact me!
+- 🔭 I’m currently working on the 2026 edition of the Journey Serve app. For more information see https://journeycolorado.com/, https://github.com/JourneyCo and if you'd like to help out on the app, please contact me!
 - 🌱 I’m currently reading "The Art Of Gathering" with the intent to improve my organiztion skills for our 2026 Denver Golang Meetups!
 - 👯 I’m looking to collaborate on quant trading ideas, fantasy sports startups, opensource civil projects, or any other misc startup ideas!
 - 🤔 I’m looking for help with tiling a bathroom or moving into a new house :)
