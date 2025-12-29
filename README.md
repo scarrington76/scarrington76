@@ -2,12 +2,12 @@
 
 I'm a full Stack Developer, Stock/Option Trader and Woodworker. </b>
 
-I'm currently looking for full stack or backend roles on a team that creates products to improve human lives. I have a passion for creating opportunities for others and bettering our society.
+I'm always on the lookout to join teams or projects that creates software to improve human lives. I have a passion for creating opportunities for others and bettering our society.
 
-- 🔭 I’m currently seeking a remote backend engineering role
-- 🌱 I’m currently grinding leetcode problems
+- 🔭 I’m currently working on the 2026 edition of the Journey Serve app. For more information see https://journeycolorado.com/ and if you'd like to help out on the app, please contact me!
+- 🌱 I’m currently reading "The Art Of Gathering" with the intent to improve my organiztion skills for our 2026 Denver Golang Meetups!
 - 👯 I’m looking to collaborate on quant trading ideas, fantasy sports startups, opensource civil projects, or any other misc startup ideas!
-- 🤔 I’m looking for help with tiling a bathroom
+- 🤔 I’m looking for help with tiling a bathroom or moving into a new house :)
 - 💬 Ask me about SimplyWallSt
 - ⚡ Fun facts: I've sang into the microphone at Red Rocks, I played international basketball, and I own land in Moldova
 
@@ -24,6 +24,7 @@ I'm currently looking for full stack or backend roles on a team that creates pro
 
 <a href="https://www.linkedin.com/in/scarrington76/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://stackoverflow.com/users/11217056/bondra76?tab=profile"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
+Journey CO 2026 Serve Day Website - Coming Soon!
 
 
 <b>Contact: </b>
